@@ -81,10 +81,10 @@
 * [ROW-2]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
 * [ROW-3]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
 * [ROW-4]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-* [ROW-5]   A A A A A A A A A A A A A A A*  A A A A A A A A A A A A A A A A A A A 
-* [ROW-6]   A A A A A A A A A A A A A A * A A A A A A A A A A A A A A A A A A A A 
-* [ROW-7]   A A A A A A A A A A A A A A * A A A A A A A A A A A A A A A A A A A A 
-* [ROW-8]   A A A A A A A A A A A A A A * A A A A A A A A A A A A A A A A A A A A 
-* [ROW-9]   A A A A A A A A A A A A R R * R R R R R R R R A A A A A A A A A A A A 
-* TotalAvailableSeats After Reservation * = 296
-* ======================================* ================================================
+* [ROW-5]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-6]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-7]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-8]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-9]   A A A A A A A A A A A A R R R R R R R R R R A A A A A A A A A A A A 
+* TotalAvailableSeats After Reservation = 296
+* ======================================================================================
