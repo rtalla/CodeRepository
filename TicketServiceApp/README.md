@@ -29,7 +29,7 @@
   * Right click [TicketServiceImplTest.java] and Run as JUnit.      
       
 
-# Log of the application as run from eclipse
+# Log of the application as run from eclipse [ Eclise-->Right click [TicketServiceImpl.java] and Run->As Application].
 * 
 * * ======================numSeatsAvailable===============================================
 * TotalAvailableSeats = 306
@@ -41,51 +41,50 @@
 * ===================findAndHoldSeats==================================================
 * Placing Seats on Hold = 10
 * Setting to HOLD [ROW-COL] =[9-18]
-Setting to HOLD [ROW-COL] =[9-17]
-Setting to HOLD [ROW-COL] =[9-19]
-Setting to HOLD [ROW-COL] =[9-16]
-Setting to HOLD [ROW-COL] =[9-20]
-Setting to HOLD [ROW-COL] =[9-15]
-Setting to HOLD [ROW-COL] =[9-21]
-Setting to HOLD [ROW-COL] =[9-14]
-Setting to HOLD [ROW-COL] =[9-22]
-Setting to HOLD [ROW-COL] =[9-13]
+* Setting to HOLD [ROW-COL] =[9-17]
+* Setting to HOLD [ROW-COL] =[9-19]
+* Setting to HOLD [ROW-COL] =[9-16]
+* Setting to HOLD [ROW-COL] =[9-20]
+* Setting to HOLD [ROW-COL] =[9-15]
+* Setting to HOLD [ROW-COL] =[9-21]
+* Setting to HOLD [ROW-COL] =[9-14]
+* Setting to HOLD [ROW-COL] =[9-22]
+* Setting to HOLD [ROW-COL] =[9-13]
 
-A=AVAIABLE, H=HOLD, R=RESERVED
-[ROW-1]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-2]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-3]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-4]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-5]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-6]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-7]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-8]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-9]   A A A A A A A A A A A A H H H H H H H H H H A A A A A A A A A A A A 
-TotalAvailableSeats After Hold= 296
-======================================================================================
+* A=AVAIABLE, H=HOLD, R=RESERVED
+* [ROW-1]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-2]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-3]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-4]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-5]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-6]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-7]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-8]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-9]   A A A A A A A A A A A A H H H H H H H H H H A A A A A A A A A A A A 
+* TotalAvailableSeats After Hold= 296
+* ======================================================================================
 
-====================ReserveSeats======================================================
-Setting to Reserved [ROW-COL] =[9-18]
-Setting to Reserved [ROW-COL] =[9-17]
-Setting to Reserved [ROW-COL] =[9-19]
-Setting to Reserved [ROW-COL] =[9-16]
-Setting to Reserved [ROW-COL] =[9-20]
-Setting to Reserved [ROW-COL] =[9-15]
-Setting to Reserved [ROW-COL] =[9-21]
-Setting to Reserved [ROW-COL] =[9-14]
-Setting to Reserved [ROW-COL] =[9-22]
-Setting to Reserved [ROW-COL] =[9-13]
+* ====================ReserveSeats======================================================
+* Setting to Reserved [ROW-COL] =[9-18]
+* Setting to Reserved [ROW-COL] =[9-17]
+* Setting to Reserved [ROW-COL] =[9-19]
+* Setting to Reserved [ROW-COL] =[9-16]
+* Setting to Reserved [ROW-COL] =[9-20]
+* Setting to Reserved [ROW-COL] =[9-15]
+* Setting to Reserved [ROW-COL] =[9-21]
+* Setting to Reserved [ROW-COL] =[9-14]
+* Setting to Reserved [ROW-COL] =[9-22]
+* Setting to Reserved [ROW-COL] =[9-13* * ]
 
-A=AVAIABLE, H=HOLD, R=RESERVED
-[ROW-1]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-2]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-3]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-4]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-5]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-6]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-7]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-8]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
-[ROW-9]   A A A A A A A A A A A A R R R R R R R R R R A A A A A A A A A A A A 
-TotalAvailableSeats After Reservation = 296
-======================================================================================
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+* A=AVAIABLE, H=HOLD, R=RESERVED
+* [ROW-1]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-2]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-3]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-4]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
+* [ROW-5]   A A A A A A A A A A A A A A A*  A A A A A A A A A A A A A A A A A A A 
+* [ROW-6]   A A A A A A A A A A A A A A * A A A A A A A A A A A A A A A A A A A A 
+* [ROW-7]   A A A A A A A A A A A A A A * A A A A A A A A A A A A A A A A A A A A 
+* [ROW-8]   A A A A A A A A A A A A A A * A A A A A A A A A A A A A A A A A A A A 
+* [ROW-9]   A A A A A A A A A A A A R R * R R R R R R R R A A A A A A A A A A A A 
+* TotalAvailableSeats After Reservation * = 296
+* ======================================* ================================================
