@@ -29,8 +29,8 @@
   * Right click [TicketServiceImplTest.java] and Run as JUnit.      
       
 
-# Log of the application as run from eclipse [ Eclise-->Right click [TicketServiceImpl.java] and Run->As Application].
-* 
+# Log of the application as run from eclipse .
+* [ Eclise-->Right click [TicketServiceImpl.java] and Run->As Application]
 * * ======================numSeatsAvailable===============================================
 * TotalAvailableSeats = 306
 * TotalNumRows = 9
