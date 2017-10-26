@@ -30,18 +30,17 @@
       
 
 # Log of the application as run from eclipse
+* 
+* * ======================numSeatsAvailable===============================================
+* TotalAvailableSeats = 306
+* TotalNumRows = 9
+* TotalSeatsInEachRow = 34
+* ======================================================================================
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-======================numSeatsAvailable===============================================
-TotalAvailableSeats = 306
-TotalNumRows = 9
-TotalSeatsInEachRow = 34
-======================================================================================
-
-
-===================findAndHoldSeats==================================================
-Placing Seats on Hold = 10
-Setting to HOLD [ROW-COL] =[9-18]
+* 
+* ===================findAndHoldSeats==================================================
+* Placing Seats on Hold = 10
+* Setting to HOLD [ROW-COL] =[9-18]
 Setting to HOLD [ROW-COL] =[9-17]
 Setting to HOLD [ROW-COL] =[9-19]
 Setting to HOLD [ROW-COL] =[9-16]
