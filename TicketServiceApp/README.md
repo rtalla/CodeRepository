@@ -1,8 +1,33 @@
 # Assumptions
-**Java v8[java version "1.8.0_152"] and Apache Maven v3.5.0 are used to build the application
-**set JAVA_HOME environment variable appropriately [Example: c:\progra~1\java\jdk1.8.0_152]  
-One Paragraph of project description goes here
+* Java v8[java version "1.8.0_152"] and Apache Maven v3.5.0 are used to build the application
+* set JAVA_HOME environment variable appropriately [Example: c:\progra~1\java\jdk1.8.0_152]  
+* Main Processing Logic is in com.walmart.TicketService.TicketServiceImpl.java
+* JUnit Test Cases are in com.walmart.TicketService.TicketServiceImplTest.java
+* Program reads following properties from "TicketServiceApp/src/main/resources/config.properties" using java.util.ResourceBundle
+* * Rows=9
+* * SeatsInEachRow=34
+* * SeatHoldTimeInSecs=5
 
+# Instructions to run the application
+
+* Using Maven
+
+** git clone https://github.com/rtalla/CodeRepository.git
+
+** cd CodeRespository/TicketServiceApp
+
+** mvn clean install
+
+* From Eclipse
+
+** git clone
+
+** Import the project into eclipse as a maven project
+
+** Right click [TicketServiceImpl.java] and Run->As Application
+ 
+** Right click [TicketServiceImplTest.java] and Run as JUnit.      
+      
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project .
@@ -90,27 +115,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 1)Assumption
 
 
-2)Instructions to run the application 
-  (a) Using Maven
-      (i)   git clone 
-      (ii)  cd to 
-      (iii) mvn clean install
-  (b) From Eclipse
-      (i)   git clone
-      (ii)  Import the project into eclipse as a maven project
-      (iii) Right click [TicketServiceImpl.java] and Run->As Application
-      (iv)  Right click [TicketServiceImplTest.java] and Run as JUnit.      
+
   
-3)Main Processing Logic is in 
-  com.walmart.TicketService.TicketServiceImpl.java
 
-4)JUnit Test Cases are in
-  com.walmart.TicketService.TicketServiceImplTest.java
-
-5)Program reads following properties from config.properties using java.util.ResourceBundle
-  #Rows=9
-  #SeatsInEachRow=34
-  #SeatHoldTimeInSecs=5
 
 6)Here is a log of application when run from eclipse
 
