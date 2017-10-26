@@ -31,14 +31,14 @@
 
 # Log of the application as run from eclipse .
 * [ Eclise-->Right click [TicketServiceImpl.java] and Run->As Application]
-* * ======================numSeatsAvailable===============================================
+* * ======================numSeatsAvailable================================
 * TotalAvailableSeats = 306
 * TotalNumRows = 9
 * TotalSeatsInEachRow = 34
-* ======================================================================================
+* ========================================================================
 
 * 
-* ===================findAndHoldSeats==================================================
+* ===================findAndHoldSeats=====================================
 * Placing Seats on Hold = 10
 * Setting to HOLD [ROW-COL] =[9-18]
 * Setting to HOLD [ROW-COL] =[9-17]
@@ -62,9 +62,9 @@
 * [ROW-8]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
 * [ROW-9]   A A A A A A A A A A A A H H H H H H H H H H A A A A A A A A A A A A 
 * TotalAvailableSeats After Hold= 296
-* ======================================================================================
+* =======================================================================
 
-* ====================ReserveSeats======================================================
+* ====================ReserveSeats=======================================
 * Setting to Reserved [ROW-COL] =[9-18]
 * Setting to Reserved [ROW-COL] =[9-17]
 * Setting to Reserved [ROW-COL] =[9-19]
@@ -87,4 +87,4 @@
 * [ROW-8]   A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A A 
 * [ROW-9]   A A A A A A A A A A A A R R R R R R R R R R A A A A A A A A A A A A 
 * TotalAvailableSeats After Reservation = 296
-* ======================================================================================
+* ======================================================================
